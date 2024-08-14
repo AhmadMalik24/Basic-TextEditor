@@ -1,0 +1,3 @@
+#include<kostream>
+using namespace std;
+int main()
